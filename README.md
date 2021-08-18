@@ -38,3 +38,9 @@ Give a title (you can't change) a, optional description (can change), markdown, 
 
 ### PUBLISH!!!
 - once you have passed the steps above you are good to click the green publish button after a few seconds it will say if its published
+
+## Signing in
+sign in at [here](https://coffeee-cream.github.io/sign-in) with you provided github token and get 30 days of edit button and new button on home page but still need token to publish
+
+## Edit a blog
+to edit a blog first [sign in](#signing-in) and then you will find the edit button click and wait for the content to load and edit to your will, you need a github token that is provided to publish, learn more about publishing [here](#in-depth-look)

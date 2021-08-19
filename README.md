@@ -3,11 +3,18 @@ the usage guide for blogs
 
 firstly you need to go to [The Coffeee Cream TypeWriter](https://coffeee-cream.github.io/editor)
 
-Give a title (you can't change) a, optional description (can change), markdown, tags (you can read [here](https://coffeee-cream.github.io/blog/avalible-tags)), a Github Token (basicly a password to publish) and accept the terms
+Give a title (you can change later but recomended not to), who is the writer ,a optional description (can change), markdown, tags (you can read [here](https://coffeee-cream.github.io/blog/avalible-tags)), a Github Token (basicly a password to publish) and accept the terms
 
 ## In depth look
 ### Title
 - you can't change it later and is needed
+
+### Writer
+- required name to identify
+- for example:
+   - 'Coffeee Cream' = wrote by Coffeee Cream
+   - 'Mod' = wrote by a moderator
+   - 'programmer' = wrote by the/a programer
 
 ### Description
 - optional
@@ -19,10 +26,6 @@ Give a title (you can't change) a, optional description (can change), markdown, 
   - [markdowntutorial.com](https://www.markdowntutorial.com/) 
   - [guides.github.com/features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 - you also have a viewer to see how it looks
-- you can also give your name at the end to show who wrote it (a system will be implemented into the editor later); for example:
-   - 'Coffeee Cream' = wrote by Coffeee Cream
-   - 'Mod' = wrote by a moderator
-   - 'programmer' = wrote by the/a programer
 - __Note: images is not supported yet please speak with the programer to use images__
 
 ### Tags

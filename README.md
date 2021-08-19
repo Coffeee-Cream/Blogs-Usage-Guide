@@ -49,5 +49,11 @@ Give a title (you can change later but recomended not to), who is the writer ,a 
 ## Signing in
 sign in at [here](https://coffeee-cream.github.io/sign-in) with you provided github token and get 30 days of edit button and new button on home page but still need token to publish
 
+## New Blog
+to start a new blog go over to [the editor](https://coffeee-cream.github.io/editor) or [sign in](#signing-in) to find a new button on the home page.
+
 ## Edit a blog
 to edit a blog first [sign in](#signing-in) and then you will find the edit button click and wait for the content to load and edit to your will, you need a github token that is provided to publish, learn more about publishing [here](#in-depth-look)
+
+## Deleting
+Deleting a blog can only be done by contacting the programer at this point

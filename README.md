@@ -19,6 +19,10 @@ Give a title (you can't change) a, optional description (can change), markdown, 
   - [markdowntutorial.com](https://www.markdowntutorial.com/) 
   - [guides.github.com/features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 - you also have a viewer to see how it looks
+- you can also give your name at the end to show who wrote it (a system will be implemented into the editor later); for example:
+   - 'Coffeee Cream' = wrote by Coffeee Cream
+   - 'Mod' = wrote by a moderator
+   - 'programmer' = wrote by the/a programer
 - __Note: images is not supported yet please speak with the programer to use images__
 
 ### Tags
